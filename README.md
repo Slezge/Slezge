@@ -1,9 +1,9 @@
 ### Hi there 👋
 - 🔭 I’m currently working on XXXX
-- 🌱 I’m currently learning CV,Image Inpainting forensics.
-- 🤔 I’m looking for help with the pioneer who is interested in CV
-- 📫 How to reach me: 1553358786@qq.com
-- ⚡ Fun fact: CVPR
+- 🌱 I’m currently learning  XXX
+- 🤔 I’m looking for help with the pioneer who is interested XX
+- 📫 How to reach me: XXX
+- ⚡ Fun fact: CCF-A
 <!--
 **Slezge/Slezge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
